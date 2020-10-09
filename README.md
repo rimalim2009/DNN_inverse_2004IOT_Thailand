@@ -10,7 +10,7 @@ This is a code for performing inverse analysis of tsunami deposits using deep-le
 Explanation of files
 
 Forward_model_for_DNN_thai.py
-the forward model for deposition from tsuanmis
+the forward model for deposition from tsunamis
 
 Thai_DNN_inverse_model_SW_1700.ipynb
 a jupyter notebook for performing the inversion

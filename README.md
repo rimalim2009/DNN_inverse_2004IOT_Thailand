@@ -4,11 +4,11 @@ Data and code used for Inverse modeling of tsunami deposits at Thailand, 2004 IO
 DNN inverse model
 ========================
 
-This is a code for performing inverse analysis of tsunami deposits using deep-learning neural network. The forward model fittnuss produces datasets of the thickness distribution of tsunami deposits with random initial conditions, and DNN constructed with tensorflow and keras learns the relation between initial conditions and depositional features. Then, the trained DNN model works as the inverse model for ancient or modern tsunami deposits. See details in Mitra, Naruse and Abe (2020). Please refer to the revised version (Version 2) for updated results.
+This is a code for performing inverse analysis of tsunami deposits using deep-learning neural network. The forward model fittnuss produces datasets of the thickness distribution of tsunami deposits with random initial conditions, and DNN constructed with tensorflow and keras learns the relation between initial conditions and depositional features. Then, the trained DNN model works as the inverse model for ancient or modern tsunami deposits. See details in Mitra, Naruse and Abe (2020). Please refer to the revised version (Version 2.0) for updated results.
 
 ---------------
 Explanation of files
-Version 1:
+Version 1.0:
 Forward_model_for_DNN_thai.py
 the forward model for deposition from tsunamis
 
@@ -28,7 +28,7 @@ config_g5_300grid_thai.ini:
 Configuration file of the forward model used for production of the training datasets and inversion.
 Cite code:[![DOI](https://zenodo.org/badge/302608664.svg)](https://zenodo.org/badge/latestdoi/302608664)
 
-Version:2 
+Version 2.0:
 Forward_model_for_DNN_thai_revised_1.py
 the forward model for deposition from tsunamis
 

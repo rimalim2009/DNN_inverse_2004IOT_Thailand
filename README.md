@@ -26,7 +26,7 @@ Data of 2004 Indian Ocean tsunami deposit measured at the Phra Thong island, Tha
 
 config_g5_300grid_thai.ini:
 Configuration file of the forward model used for production of the training datasets and inversion.
-Cite code:[![DOI](https://zenodo.org/badge/302608664.svg)](https://zenodo.org/badge/latestdoi/302608664)
+Cite code:[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4075137.svg)](https://doi.org/10.5281/zenodo.4075137)
 
 Version 2.0:
 Forward_model_for_DNN_thai_revised_1.py

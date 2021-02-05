@@ -49,5 +49,5 @@ Calculation of dataset from Phra thong island, Thailand
 
 config_g5_300grid_thai.ini:
 Configuration file of the forward model used for production of the training datasets and inversion.
-Cite code:[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4505673.svg)](https://doi.org/10.5281/zenodo.4505673)
+Cite code:[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4505743.svg)](https://doi.org/10.5281/zenodo.4505743)
 

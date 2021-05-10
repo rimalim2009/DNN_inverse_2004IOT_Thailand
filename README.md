@@ -52,4 +52,6 @@ Calculation of dataset from Phra thong island, Thailand
 config_g5_300grid_thai.ini:
 Configuration file of the forward model used for production of the training datasets and inversion.
 
+Version 2.1:
+Updated version of Forward_model_for_DNN_thai_revised_1.py was included
 
